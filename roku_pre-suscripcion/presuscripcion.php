@@ -1,15 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Roku presuscripción</title>
-	<meta charset="utf-8"> 
-</head>
-<body>
-
-</body>
-</html>
-
 <?php
+
 $servername = "127.0.0.1";
 $username = "root";
 $password = "Awdsawds2";
