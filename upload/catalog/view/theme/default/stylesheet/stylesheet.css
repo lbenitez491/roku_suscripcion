@@ -703,3 +703,37 @@ h2.price {
        width: 100%;
     }
 }
+
+.ADiv1Panel{
+	font-size: 20px;
+}
+
+#div1{
+	display: none;
+}
+
+#div3{
+	display: none;
+}
+
+.td1{
+	width: 15%;
+}
+
+.input_form_success{
+	width: 300px;
+	height: 50px;
+	border-radius: 4px;
+	border:  1px solid #999; 
+	font-size: 17px;
+	padding-left: 10px;
+}
+
+.div_success{
+	width: 320px;
+	margin: auto;
+}
+
+.submit_form_success{
+	width: 300px;
+}

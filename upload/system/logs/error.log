@@ -1,0 +1,4 @@
+2014-12-09 14:28:55 - PHP Notice:  Undefined index: status in /Users/Ludwig/Sites/Git/roku/upload/catalog/view/theme/default/template/account/order_list.tpl on line 109
+2014-12-09 14:28:55 - PHP Notice:  Undefined index: date_added in /Users/Ludwig/Sites/Git/roku/upload/catalog/view/theme/default/template/account/order_list.tpl on line 110
+2014-12-09 14:29:14 - PHP Notice:  Undefined index: status in /Users/Ludwig/Sites/Git/roku/upload/catalog/view/theme/default/template/account/order_list.tpl on line 110
+2014-12-09 14:29:14 - PHP Notice:  Undefined index: date_added in /Users/Ludwig/Sites/Git/roku/upload/catalog/view/theme/default/template/account/order_list.tpl on line 111
