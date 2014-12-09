@@ -174,7 +174,7 @@
   <script>
     function myFunction(parametro) {
         if(confirm("Are you sure you want to delete this channel?")){
-          window.location.href = "suscripcion/delete-suscripcion.php?act=" + parametro;
+          window.location.href = "../roku_pre-suscripcion/delete-suscripcion.php?act=" + parametro;
 
         }
         
